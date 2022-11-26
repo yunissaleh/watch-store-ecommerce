@@ -1,0 +1,62 @@
+body {
+background-color:  #F2F2F2;
+}
+@media only screen and (max-width: 1026px) {
+  #logo {
+    display: none;
+  }
+}
+
+.content {
+	margin: 40px;
+}
+
+.card {
+	margin:5px;
+}
+.listing_container {
+	    padding: 0 10px 10px 10px;
+}
+#select {
+	width: 100%;
+
+}
+.top{
+	background-color:#04101F;
+	padding: 3px;
+
+}
+.navigation {
+	list-style: none;
+	text-align: center;
+	padding: 10px;
+}
+.navigation li {
+	display: inline-block;
+	margin: 5px 12px;
+}
+
+.top img {
+	width: 60px;
+	padding: 2px;
+	margin:  5px 10px;
+}
+.navigation a, li {
+	color:#ffffff;
+	font-size: 14px;
+	margin-left: 10px;
+
+}
+.page {
+	padding: 40px 40px 20px 40px;
+	background-color:  #F2F2F2;
+	text-align: center;
+}
+.page h2, .card a {
+	color:#04101F;
+
+}
+h2, h6,h5 {
+  font-family: 'Arvo';
+	font-weight: bold;
+}
