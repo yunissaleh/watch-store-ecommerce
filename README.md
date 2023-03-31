@@ -23,3 +23,6 @@ Users who are signed in can visit their watchlist page, which displays all the l
 
 # Categories
 Users can visit a page that displays a list of all listing categories. Clicking on the name of any category takes the user to a page that displays all active listings in that category.
+
+# Technologies used
+Django, Python, Bootstrap, CSS, HTML, SQLite
